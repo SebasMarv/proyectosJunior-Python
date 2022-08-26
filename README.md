@@ -6,6 +6,6 @@ Consultas-Sunat
 		llenado de formularios, en este caso consulta de documentos 
 		electronicos en la plataforma de SUNAT.
 
---Instalar Selenium
-		*pip install selenium
+Instalar Selenium
+		-pip install selenium
 --------------------------------------------------------------------
